@@ -1,4 +1,4 @@
-Kata06: Anagrams
+KATA06: ANAGRAMS
 
 My attempt on http://codekata.com/kata/kata06-anagrams/
 
